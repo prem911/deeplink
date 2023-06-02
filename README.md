@@ -1,4 +1,12 @@
 # deeplink
+This is a nodejs express project.
+You know the drill
+
+`npm i` to install
+
+`npm start` to start the server
+
+Use render.com to quick spin this in one of their free tier to test.
 
 ## usecase
 Ever wondered how to use upi://pay deep link in google forms or Telegram or whatsapp?
